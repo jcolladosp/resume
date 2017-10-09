@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chris Turner&#39;s Resume</title>
-    <link>http://www.collado.pw/tags/</link>
+    <link>www.collado.pw/resume/tags/</link>
     <description>Recent content in Tags on Chris Turner&#39;s Resume</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://www.collado.pw/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.collado.pw/resume/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
